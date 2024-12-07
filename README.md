@@ -8,11 +8,15 @@
 * As an Admin, I need the ability to reply to customer reviews.
 * As a Customer, I need to view products along with their details.
 * As a Customer, I need the ability to write reviews for a product.
+
 2:- System Requirements
+
 * The system should utilize the following technologies: HTML, CSS, JavaScript, and Node.js.
 * The database management system should be either MySQL or PostgreSQL.
 * The system should consist of at least three separate applications:
+ 
 3:- Backend API
+
 * Admin Web Application
 * Customer Web Application
 * The backend API should communicate via RESTful APIs.
